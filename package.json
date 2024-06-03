@@ -1,0 +1,19 @@
+{
+  "name": "jsbackend",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "main": "conversion.js",
+  "scripts": {
+    "start": "node conversion.js"
+  },
+  "keywords": [
+    "node",
+    "back"
+  ],
+  "author": "praashna adhikari",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
